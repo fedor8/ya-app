@@ -1,0 +1,11 @@
+.customers {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+.salary-input{
+    width: 50px;
+}
+.DeleteAllButton{
+    margin-bottom: 50px;
+}

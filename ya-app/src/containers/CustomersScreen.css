@@ -1,0 +1,16 @@
+.row {
+    display: flex;
+    flex-wrap: nowrap;
+    align-items: baseline;
+    justify-content: space-between;
+}
+.row__name {
+    width: 50%;
+    overflow-x: hidden;
+    margin: 0;
+    font-size: 20px;
+}
+.row__salary {
+    margin: 0;
+    font-size: 20px;
+}
